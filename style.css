@@ -28,6 +28,7 @@
     display: flex;
     /* justify-content: baseline; */
     align-items: center;
+    pointer-events: none;
 }
 .logo{
     width: 80px;
